@@ -1,4 +1,4 @@
-Dsync[WIP]
+Scable[WIP]
 ====
 
 - install rsync. openssl, openssl-devel, and openssl-server to the container.
